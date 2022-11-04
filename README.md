@@ -3,10 +3,10 @@
 Esta api esta creada para despliegue de contenedores docker 
 la misma esta protegida al acceso por medio de tokens jwt.
 
-## Rath packages
+## Path packages
 En esta carpeta tenemos modulos de apoyo al codigo principal 
 
-## Routes 
+## Rutas 
 Dentro de esta carpeta encontraremos el archivo index con todas las rutas
 * /api/dockerbuild : En esta ruta podremos desplegar nuevos contenedores. Tenemos que pasar 
 la imagen de docker donde queremos desplegar, la url de github para clonar el repo y el nombre 
